@@ -1,4 +1,8 @@
 body {
+  word-wrap: break-word;
+}
+
+body {
   font-family: "Gurajada Regular Unicode";
   color: #000000;
   background-color: #ffffff;
